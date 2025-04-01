@@ -2,7 +2,7 @@
 
 **A simple and efficient tool for extracting text from PDF files, with support for plain text and Markdown formatting.**  
 
-🚀 **Live Demo**: [PDF Text Extractor](https://pdf-text-extractors.streamlit.app/)  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf-text-extractors.streamlit.app/)  
 
 ---
 
