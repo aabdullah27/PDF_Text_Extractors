@@ -1,0 +1,12 @@
+# virtaul environments
+venv
+.venv
+env
+
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
